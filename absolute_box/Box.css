@@ -1,0 +1,32 @@
+#top{
+	position:absolute;
+	width:100%;
+	height:100px;
+	background-color:#FFDDDD;
+}
+
+#left{
+	position:absolute;
+	width:150px;
+	top:100px;
+	height:100%;
+	background-color:#DDFFDD;
+}
+
+#right{
+	position:absolute;
+	width:500px;
+	height:100%;
+	top:100px;
+	left:150px;
+	background-color:#DDDDFF;
+}
+
+#box{
+	position:absolute;
+	background-color:red;
+	width:10px;
+	height:10px;
+	top:140px;
+	left:20px;	
+}
